@@ -1,4 +1,5 @@
-# Opeyemi Oyeyemi | Data Analyst & Data Science Enthusiast
+# Opeyemi Oyeyemi 
+### Data Analyst & Data Science Enthusiast
 
 Hi, I'm a data analyst passionate about uncovering insights and building actionable data solutions for real-world business challenges.
 
