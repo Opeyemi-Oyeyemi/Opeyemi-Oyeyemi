@@ -7,11 +7,11 @@ I’m currently working on building my data analysis portfolio and learning data
 ---
 
 ## 🧰 Tools & Skills
-SQL • Excel • Power BI • Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) • Project Management • Data Cleaning • EDA • Dashboarding • 
+SQL (PostgreSQL, MySQL) • Excel • Power BI • Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) • Azure • Data Cleaning • EDA • Dashboarding • Project Management
 
 ---
 
-## 🔍 Projects Showcase
+## 🔍 Projects
 ### 📊 Data Analysis
 
 | Project | Summary | Tools |
