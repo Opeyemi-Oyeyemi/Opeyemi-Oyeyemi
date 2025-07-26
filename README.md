@@ -1,30 +1,40 @@
 # Opeyemi Oyeyemi 
 ### Data Analyst & Data Science Enthusiast
 
-Hi, I'm a data analyst passionate about uncovering insights and building actionable data solutions for real-world business challenges.
+Hi, I'm a data analyst interesting in uncovering insights and building actionable data solutions for real-world business challenges.
+I’m currently working on building my data analysis portfolio and learning data sience. I’m open to project learnings and collaborations.
 
 ---
 
-## 📊 Tools & Skills
-SQL • Excel • Power BI • Python (Pandas, NumPy, Matplotlib, Seaborn) • Project Management • Data Cleaning • EDA • Dashboarding • 
+## 🧰 Tools & Skills
+SQL • Excel • Power BI • Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) • Project Management • Data Cleaning • EDA • Dashboarding • 
 
 ---
 
 ## 🔍 Projects Showcase
+### 📊 Data Analysis
 
 | Project | Summary | Tools |
 |--------|---------|-------|
-| [Sales Trend Analysis](./project-sales-trend-analysis/) | Analyzed monthly sales performance and created an interactive dashboard | Excel, Power BI |
-| [Customer Segmentation](./project-customer-segmentation/) | Used K-Means clustering to segment customers for targeted marketing | Python, Scikit-learn |
-| [HR Dashboard](./project-hr-dashboard/) | Built an HR dashboard to monitor attrition and workforce metrics | Power BI |
+| [HR Dashboard](link) | Built an HR dashboard to monitor employee attrition and workforce metrics | Excel, Power BI |
+| [Plato's Pizza Dashboard](link) | Built a dashboard to find opportunities to drive more sales and work more efficiently | Power BI |
+| [Romania Electricity Analysis](link) | Monitoring Electricity consumption and Production in Romania across energy types | Excel, Power BI |
+| [Lung Cancer Risk Factor Analysis](link) | Assessing medical and lifestyle attributes of patients to understand risk factors for lung cancer | Excel |
+
+---
+
+### 👨‍💻 Data Science
+| Project | Summary | 
+|--------|---------|
+| [Air Quality Prediction](./project-sales-trend-analysis/) | Developed a machine learning model to accurately predict CO2 levels using data from low-cost IoT devices | 
+| [Water, Oil & Gas Prediction](./project-customer-segmentation/) | Developed a machine learning model to forecast the production profile (oil, gas, and water) based on historical records | 
 
 ---
 
 ## Certifications 
 
 - [Microsoft Power BI Data Analyst Associate (PL-300)](link)
-- [Google Data Analytics Professional Certificate](link) 
-- [View more »](#)
+- [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/users/opeyemi-oyeyemi)
 
 ---
 
@@ -92,12 +102,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
 <!--
