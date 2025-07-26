@@ -16,7 +16,7 @@ SQL • Excel • Power BI • Python (Pandas, NumPy, Matplotlib, Seaborn, Sciki
 
 | Project | Summary | Tools |
 |--------|---------|-------|
-| [HR Dashboard](https://github.com/Opeyemi-Oyeyemi/HR-Dashboard) | Built an HR dashboard to monitor employee attrition and workforce metrics | Excel, Power BI |
+| [HR Dashboard](https://github.com/Opeyemi-Oyeyemi/hr-Dashboard) | Built an HR dashboard to monitor employee attrition and workforce metrics | Excel, Power BI |
 | [Plato's Pizza Dashboard](https://github.com/Opeyemi-Oyeyemi/Platos-Pizza-Dashboard) | Built a dashboard to find opportunities to drive more sales and work more efficiently | Power BI |
 | [Romania Electricity Analysis](https://github.com/Opeyemi-Oyeyemi/Romania-Electricity-Analysis) | Monitoring Electricity consumption and Production in Romania across energy types | Excel, Power BI |
 | [Lung Cancer Risk Factor Analysis](https://github.com/Opeyemi-Oyeyemi/Lung-Cancer-Risk-Factor-Analysis) | Assessing medical and lifestyle attributes of patients to understand risk factors for lung cancer | Excel |
