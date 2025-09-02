@@ -2,12 +2,18 @@
 ### Data Analyst & Data Science Enthusiast
 
 Hi, I'm a data analyst interesting in uncovering insights and building actionable data solutions for real-world business challenges.
-I’m currently working on building my data analysis portfolio and learning data sience. I’m open to project learnings and collaborations.
+I’m currently working on building my data analysis portfolio (getting my PL-300 certification also) and learning data science for engineering, finance, and other applications. 
+
+I’m looking to collaborate on data analysis/science projects, challenges, competitions, and hackathons, so feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
+
+You can also ask me about SQL, Excel, Data Analysis, Program & Project Management.
 
 ---
 
 ## 🧰 Tools & Skills
-SQL (PostgreSQL, MySQL) • Excel • Power BI • Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) • Azure • Data Cleaning • EDA • Dashboarding • Project Management
+SQL (PostgreSQL, MySQL) • Excel • Power BI • Python • Jupyter Notebooks • Jira • Azure • Microsoft Office • Google Workspace
+
+Data Cleaning • Data Visualization • EDA • Statistical Analysis • Project Management • Agile Methodologies • Process Optimization
 
 ---
 
@@ -31,7 +37,7 @@ SQL (PostgreSQL, MySQL) • Excel • Power BI • Python (Pandas, NumPy, Matplo
 
 ---
 
-## Certifications 
+## [Certifications](https://drive.google.com/drive/folders/1DIOxgl6q1gt3ILZd316RMk6WaOCtQjKw?usp=drive_link)
 
 - [Microsoft Power BI Data Analyst Associate (PL-300)](link)
 - [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/users/opeyemi-oyeyemi)
@@ -40,7 +46,7 @@ SQL (PostgreSQL, MySQL) • Excel • Power BI • Python (Pandas, NumPy, Matplo
 
 ## Resume
 
-📎 [Download Resume (PDF)](link)
+📎 Wanna know about my experiences, check here --> [Resume](link)
 
 ---
 
