@@ -1,12 +1,12 @@
 # Opeyemi Oyeyemi 
 ### Data Analyst & Data Science Enthusiast
 
-Hi, I'm a data analyst interesting in uncovering insights and building actionable data solutions for real-world business challenges.
-I’m currently working on building my data analysis portfolio (getting my PL-300 certification also) and learning data science for engineering, finance, and other applications. 
+Hi, I'm a data analyst interested in uncovering insights and building actionable data solutions for real-world business challenges.
+I’m currently working on building my data analysis portfolio (getting my PL-300 certification also) and learning data science for engineering, finance, energy, and other applications. 
 
 I’m looking to collaborate on data analysis/science projects, challenges, competitions, and hackathons, so feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
 
-You can also ask me about SQL, Excel, Data Analysis, Program & Project Management.
+You can also ask me about SQL, Excel, Data Analysis, Program & Project Management, and Operations.
 
 ---
 
