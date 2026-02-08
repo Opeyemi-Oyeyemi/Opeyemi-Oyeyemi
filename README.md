@@ -32,8 +32,8 @@ Data Cleaning • Data Visualization • EDA • Statistical Analysis • Projec
 ### 👨‍💻 Data Science
 | Project | Summary | 
 |--------|---------|
-| [Air Quality Prediction](https://github.com/Opeyemi-Oyeyemi/Air-Quality-Prediction) | Developed a machine learning model to predict CO2 levels using data from low-cost IoT devices | 
-| [Water, Oil & Gas Prediction](https://github.com/Opeyemi-Oyeyemi/Water-Oil-Gas-Prediction) | Developed a machine learning model to forecast production profile based on historical records | 
+| [Air Quality Prediction](https://github.com/Opeyemi-Oyeyemi/Air-Quality-Prediction) | ML model to predict CO2 levels using data from low-cost IoT devices | 
+| [Water, Oil & Gas Prediction](https://github.com/Opeyemi-Oyeyemi/Water-Oil-Gas-Prediction) | ML model to forecast production profile based on historical records | 
 
 ---
 
