@@ -28,12 +28,12 @@ So, feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
 
 ## [Certifications](https://drive.google.com/drive/folders/1DIOxgl6q1gt3ILZd316RMk6WaOCtQjKw?usp=drive_link)
 
-- Fundmentals of Deep Learning (NVIDIA Deep Learning Institute)
-- Bulding RAG Agents with LLMs (NVIDIA Deep Learning Institute)
+- [Fundmentals of Deep Learning (NVIDIA Deep Learning Institute)](https://drive.google.com/file/d/1PngSE-r_cFpEfFXg2gRMcHv-B7GdOVf5/view?usp=drive_link)
+- [Bulding RAG Agents with LLMs (NVIDIA Deep Learning Institute)](https://drive.google.com/file/d/1F-pTdIaDr_EKTGc5OTPClPS0pcZKz28N/view?usp=drive_link)
 - [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/users/opeyemi-oyeyemi)
-- Microsoft DSN Certified Trainer
+- [Microsoft x DSN Certified Trainer](https://drive.google.com/file/d/1GZyShnZj-lrm5_wzygTKpsidFjTAdFaj/view?usp=drive_link)
 - [Microsoft Certified Educator](https://www.credly.com/users/opeyemi-oyeyemi)
-- DSN AI Bootcamp 2025
+
 ---
 
 ## 🌐 Connect with Me
