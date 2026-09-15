@@ -2,6 +2,7 @@
 ### Data Analyst | Operations & Program Professional | Energy & Sustainability | Social Impact
 
 Hi, I'm a data analyst interested in building data solutions for world & business challenges.
+
 I work at the intersection of data analytics, operations, and community impact, and I've taught data analytics to 1000+ students across levels.
 
 I’m interested in data science for engineering, finance, energy, and other applications, and I’m open to collaborate on data analysis/science projects, challenges, competitions, and hackathons.
