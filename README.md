@@ -18,18 +18,6 @@ So, feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
 ---
 
 ## Featured Projects
-### 📊 Data Analysis
-
-| Project | Description | Tools |
-|--------|---------|-------|
-| [HR Dashboard](https://github.com/Opeyemi-Oyeyemi/hr-Dashboard) | Built an HR dashboard to monitor workforce metrics | Excel, Power BI |
-| [Plato's Pizza Dashboard](https://github.com/Opeyemi-Oyeyemi/Platos-Pizza-Dashboard) | Built a dashboard to improve operations | Power BI |
-| [Romania Electricity Analysis](https://github.com/Opeyemi-Oyeyemi/Romania-Electricity-Analysis) | Monitoring Electricity Consumption and Production in Romania across energy types | Excel, Power BI |
-| [Lung Cancer Risk Factor Analysis](https://github.com/Opeyemi-Oyeyemi/Lung-Cancer-Risk-Factor-Analysis) | Assessing attributes of patients to understand risk factors for lung cancer | Excel |
-
----
-
-### 👨‍💻 Data Science
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Energy Efficiency Prediction](link) | Predicts building heating/cooling loads using regression | Python, Scikit-learn |
@@ -56,6 +44,19 @@ So, feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
 
 <!--
 ---
+
+### 📊 Data Analysis
+
+| Project | Description | Tools |
+|--------|---------|-------|
+| [HR Dashboard](https://github.com/Opeyemi-Oyeyemi/hr-Dashboard) | Built an HR dashboard to monitor workforce metrics | Excel, Power BI |
+| [Plato's Pizza Dashboard](https://github.com/Opeyemi-Oyeyemi/Platos-Pizza-Dashboard) | Built a dashboard to improve operations | Power BI |
+| [Romania Electricity Analysis](https://github.com/Opeyemi-Oyeyemi/Romania-Electricity-Analysis) | Monitoring Electricity Consumption and Production in Romania across energy types | Excel, Power BI |
+| [Lung Cancer Risk Factor Analysis](https://github.com/Opeyemi-Oyeyemi/Lung-Cancer-Risk-Factor-Analysis) | Assessing attributes of patients to understand risk factors for lung cancer | Excel |
+
+---
+
+### 👨‍💻 Data Science
 
 ## Resume
 
