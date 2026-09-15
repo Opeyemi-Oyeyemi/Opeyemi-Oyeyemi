@@ -20,7 +20,7 @@ So, feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
 ## Featured Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Energy Efficiency Prediction](link) | Predicts building heating/cooling loads using regression | Python, Scikit-learn |
+| [Energy Efficiency Prediction](https://github.com/Opeyemi-Oyeyemi/Appliance-Energy-Usage-Prediction) | Predicts building heating/cooling loads using regression | Python, Scikit-learn |
 | [Air Quality Model – Zindi](https://github.com/Opeyemi-Oyeyemi/Air-Quality-Prediction) | CO2 prediction from IoT sensor data | Python, ML |
 | [Oil & Gas Production Forecast](https://github.com/Opeyemi-Oyeyemi/Water-Oil-Gas-Prediction) | Time series forecasting for well production | Python |
 
