@@ -1,26 +1,25 @@
 # Opeyemi Oyeyemi 
-### Data Analyst & Data Science Enthusiast
+### Data Analyst | Operations & Program Professional | Energy & Sustainability | Social Impact
 
-Hi, I'm a data analyst interested in uncovering insights and building actionable data solutions for real-world business challenges.
-I’m currently working on building my data analysis portfolio (getting my PL-300 certification also) and learning data science for engineering, finance, energy, and other applications. 
+Hi, I'm a data analyst interested in building data solutions for world & business challenges.
+I work at the intersection of data analytics, operations, and community impact, and I've taught data analytics to 1000+ students across levels.
 
-I’m looking to collaborate on data analysis/science projects, challenges, competitions, and hackathons, so feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
-
-You can also ask me about SQL, Excel, Data Analysis, Program & Project Management, and Operations.
-
----
-
-## 🧰 Tools & Skills
-SQL (PostgreSQL, MySQL) • Excel • Power BI • Python • Jupyter Notebooks • Jira • Azure • Microsoft Office • Google Workspace
-
-Data Cleaning • Data Visualization • EDA • Statistical Analysis • Project Management • Agile Methodologies • Process Optimization
+I’m interested in data science for engineering, finance, energy, and other applications, and I’m open to collaborate on data analysis/science projects, challenges, competitions, and hackathons.
+So, feel free reach out [here](https://www.linkedin.com/in/opeyemioyeyemi).
 
 ---
 
-## 🔍 Projects
+## What I work with
+- **Analytics:** SQL · Power BI · Excel · Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **AI/ML:** Machine Learning · Deep Learning · RAG Agents · Feature Engineering
+- **Operations:** Project Management · Program Management · Agile · Stakeholder Management · Process Optimisation
+
+---
+
+## Featured Projects
 ### 📊 Data Analysis
 
-| Project | Summary | Tools |
+| Project | Description | Tools |
 |--------|---------|-------|
 | [HR Dashboard](https://github.com/Opeyemi-Oyeyemi/hr-Dashboard) | Built an HR dashboard to monitor workforce metrics | Excel, Power BI |
 | [Plato's Pizza Dashboard](https://github.com/Opeyemi-Oyeyemi/Platos-Pizza-Dashboard) | Built a dashboard to improve operations | Power BI |
@@ -30,32 +29,55 @@ Data Cleaning • Data Visualization • EDA • Statistical Analysis • Projec
 ---
 
 ### 👨‍💻 Data Science
-| Project | Summary | 
-|--------|---------|
-| [Air Quality Prediction](https://github.com/Opeyemi-Oyeyemi/Air-Quality-Prediction) | ML model to predict CO2 levels using data from low-cost IoT devices | 
-| [Water, Oil & Gas Prediction](https://github.com/Opeyemi-Oyeyemi/Water-Oil-Gas-Prediction) | ML model to forecast production profile based on historical records | 
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Energy Efficiency Prediction](link) | Predicts building heating/cooling loads using regression | Python, Scikit-learn |
+| [Air Quality Model – Zindi](https://github.com/Opeyemi-Oyeyemi/Air-Quality-Prediction) | CO2 prediction from IoT sensor data | Python, ML |
+| [Oil & Gas Production Forecast](https://github.com/Opeyemi-Oyeyemi/Water-Oil-Gas-Prediction) | Time series forecasting for well production | Python |
 
 ---
 
 ## [Certifications](https://drive.google.com/drive/folders/1DIOxgl6q1gt3ILZd316RMk6WaOCtQjKw?usp=drive_link)
 
-- [Microsoft Power BI Data Analyst Associate (PL-300)](link)
+- Fundmentals of Deep Learning (NVIDIA Deep Learning Institute)
+- Bulding RAG Agents with LLMs (NVIDIA Deep Learning Institute)
 - [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/users/opeyemi-oyeyemi)
+- Microsoft DSN Certified Trainer
+- [Microsoft Certified Educator](https://www.credly.com/users/opeyemi-oyeyemi)
+- DSN AI Bootcamp 2025
+---
 
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/opeyemioyeyemi)
+- [Email](mailto:opeyemioyeyemi11@gmail.com) 
+
+
+<!--
 ---
 
 ## Resume
 
 📎 Wanna know about my experiences, check here --> [Resume](link)
 
----
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/opeyemioyeyemi)
 - [Blog](https://medium.com/@opeyemioyeyemi)
-- [Email](mailto:opeyemioyeyemi11@gmail.com)
-- [Website](link) 
+- [Website](link)
+
+
+Data Analyst | Operations & Program Professional | Chemical Engineering | Lagos, Nigeria
+
+Currently teaching data analytics to 500+ students at TechCrush Bootcamp.
+
+## Featured Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Energy Efficiency Prediction](link) | Predicts building heating/cooling loads using regression | Python, Scikit-learn |
+| [Air Quality Model – Zindi](link) | CO2 prediction from IoT sensor data | Python, ML |
+| [Oil & Gas Production Forecast](link) | Time series forecasting for well production | Python |
+
+## Certifications
+NVIDIA Deep Learning Institute · Microsoft Azure AI · MCT · DSN AI Bootcamp 2025
+-->
 
 
 <!--
